@@ -103,14 +103,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Wild-Whale"
   avatar           : "/assets/images/me.jpg"
   bio              : "Enjoy Research & Programming"
   location         : "Seoul, Korea"
-  email            : "wild.whale.jin@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

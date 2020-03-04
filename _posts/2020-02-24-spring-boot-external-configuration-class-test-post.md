@@ -3,8 +3,6 @@ title: "[Spring boot] 커스텀 설정 프로퍼티 클래스 Test 하기"
 categories: spring-boot 
 ---
 
-> 작성된 예제 코드는 [github](https://github.com/wildwhale/spring-boot/tree/master/external-config)에 공개 되어 있습니다.
-
 스프링 부트 커스텀 설정 클래스 사용하기 
 ---
 스프링 부트는 외부 설정 파일 설정을 properties or yml 파일을 통해 간단하게 제공 하고 있다.
@@ -123,6 +121,7 @@ public class AcmePropertiesTest {
 | `@ContextConfiguration` | 설정 파일의 위치를 지정할 떄 사용 |
 
 
+> 작성된 예제 코드는 [github](https://github.com/wildwhale/spring-boot/tree/master/external-config)에 공개 되어 있습니다.
 
  
 
