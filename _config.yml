@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Wild-Whale"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpg"
   bio              : "Enjoy Research & Programming"
   location         : "Seoul, Korea"
   email            : "wild.whale.jin@gmail.com"
