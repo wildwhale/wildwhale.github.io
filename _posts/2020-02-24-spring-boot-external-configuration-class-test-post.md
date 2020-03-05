@@ -118,7 +118,9 @@ public class AcmePropertiesTest {
 |---|---|
 | `@RunWith` | 테스트러너 지정  |
 | `@EnableAutoConfiguration` | Configure bean을 자동으로 등록  |
-| `@ContextConfiguration` | 설정 파일의 위치를 지정할 떄 사용 |
+| `@ContextConfiguration` | 설정 파일의 위치를 지정할 때 사용 |
+
+위 테스트 코드에서 `@ContextConfiguration`에 `initializers`를 지정 해주지 않으면 `application.yml`의 `properties`을 읽어 오지 못 한다.
 
 
 > 작성된 예제 코드는 [github](https://github.com/wildwhale/spring-boot/tree/master/external-config)에 공개 되어 있습니다.
