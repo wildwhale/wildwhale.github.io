@@ -9,7 +9,7 @@ Cypher Query clause와 친해져 보기
 ## Cypher 란?
 
 SQL-Like 선언형 쿼리 언어로, 그래프 모델에 특화된 쿼리 언어
-![Cypher 예시 그림]({{site.url}}/assets/images/Property-Graph-Cypher.jpg)
+![Cypher 예시 그림](/assets/images/Property-Graph-Cypher.jpg)
 
 
 ## Recommended naming conventions
@@ -117,7 +117,7 @@ RETURN a.title, r
 
 - Fabric DB란?
   - Neo4j 4.0 에 추가된 feature로 여러개의 DB에 저장과 검색을 가능하게 해주는 Virture DB ( 다음 기회에.. )
-    ![Cypher 예시 그림]({{site.url}}/assets/images/fabric-single-instance.jpg) 
+    ![Cypher 예시 그림](/assets/images/fabric-single-instance.jpg) 
 
 ### WITH example
 
