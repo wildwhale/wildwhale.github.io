@@ -1,6 +1,8 @@
 ---
 title: "[Raspberry Pi] Magic Mirror 만들기 - OS 설치"
 categories: RaspberryPi, MagicMirror, SmarMirror 
+toc: true
+toc_sticky: true
 ---
 
 놀고 있는 Raspberry Pi를 액자로 만들었던 과정을 기록 

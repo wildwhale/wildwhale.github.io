@@ -1,6 +1,8 @@
 ---
 title: "[Spring boot] 커스텀 설정 프로퍼티 클래스 Test 하기"
 categories: spring-boot 
+toc: true
+toc_sticky: true
 ---
 
 스프링 부트 커스텀 설정 클래스 사용하기 

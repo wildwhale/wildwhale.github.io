@@ -1,6 +1,8 @@
 ---
 title: "[Cypher] Clause 친해 지기"
 categories: neo4j, cypher 
+toc: true
+toc_sticky: true
 ---
 
 Cypher Query clause와 친해져 보기 
