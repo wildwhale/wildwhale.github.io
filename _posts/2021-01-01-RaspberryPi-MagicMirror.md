@@ -1,6 +1,10 @@
 ---
 title: "[Raspberry Pi] Magic Mirror 만들기 - OS 설치"
-categories: RaspberryPi, MagicMirror, SmarMirror 
+categories: RaspberryPi
+tags:
+  - RaspberryPi
+  - MagicMirror
+  - SmarMirror
 toc: true
 toc_sticky: true
 ---

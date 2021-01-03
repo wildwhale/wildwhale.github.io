@@ -1,6 +1,9 @@
 ---
 title: "[Cypher] Clause 친해 지기"
 categories: neo4j, cypher 
+tags:
+  - neo4j
+  - cypher
 toc: true
 toc_sticky: true
 ---

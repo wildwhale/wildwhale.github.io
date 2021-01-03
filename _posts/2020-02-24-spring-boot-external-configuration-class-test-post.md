@@ -1,6 +1,9 @@
 ---
 title: "[Spring boot] 커스텀 설정 프로퍼티 클래스 Test 하기"
 categories: spring-boot 
+tags:
+    - configuration
+    - test
 toc: true
 toc_sticky: true
 ---
